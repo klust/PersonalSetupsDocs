@@ -20,7 +20,9 @@ nav:
   - Home: index.md
   - Course organisation:
     - Course_organisation/index.md
-    - Broadcase hybrid course: Course_organisation/01_hybrid_video.md
+    - Broadcast single Zoom: Course_organisation/01_Single_computer_Zoom.md
+    - Broadcast single OBS: Course_organisation/02_Single_computer_OBS.md
+    - Broadcast dual OBS: Course_organisation/03_Dual_computers_OBS.md
 
 plugins:
   # show revision date at bottom of each page
