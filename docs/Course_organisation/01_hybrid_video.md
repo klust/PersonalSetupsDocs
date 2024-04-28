@@ -20,8 +20,29 @@
     to automatically connect the audio of the computer when participating to a meeting.
 
 
+### Infrastructure (ideal)
 
-## Broadcast via OBS from a second PC
+-   Laptop (first monitor)
+
+-   HDMI switch, connect laptop to switch, then switch to projector and to second monitor 
+    that serves as a control screen
+
+-   Third monitor is useful also. Takes 1 USB-C port
+
+-   Microphone, takes a USB-C port
+
+-   Power needed:
+
+    -   USB-C for the mac, via a USB-C - to - magsafe cable
+  
+    -   USB-C for portable monitor used as screen 2 and connected via HDMI
+
+    -   USB-C to charge the charging case
+
+    -   When the iPad is used to monitor the questions, USB-C or USB-A depending on the cable
+
+
+## Broadcast via OBS from a second PC (either Zoom or YouTube/Twitch/...)
 
 ### Idea
 
