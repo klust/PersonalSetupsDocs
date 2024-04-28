@@ -11,7 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/01_hybrid_video/</loc>
+         <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/01_Single_computer_Zoom/</loc>
+         <lastmod>2024-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/02_Single_computer_OBS/</loc>
+         <lastmod>2024-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/03_Dual_computers_OBS/</loc>
          <lastmod>2024-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
