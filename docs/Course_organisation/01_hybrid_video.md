@@ -18,3 +18,7 @@
     An argument for this is that they then have their own ssh keys to show things
     live on the supercomputer.
 
+
+## Web links with information
+
+-   [AnyRec page "Connect OBS to Zoom: Webcam, Audio Output, and Live Stream"](https://www.anyrec.io/obs-to-zoom/)
