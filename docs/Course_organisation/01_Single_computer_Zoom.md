@@ -138,7 +138,7 @@
             the HDMI-to-micro-HDMI cable provided with the monitor, and to a USB-C power supply
             with the cable provided with the monitor
 
-    4.  *Microphone*: The receiver can be connected directly to he front left USB-C port of the laptop
+    4.  *Microphone*: The receiver can be connected directly to the front left USB-C port of the laptop
         as the other USB-C port is not needed so can be covered by the receiver.
 
         Otherwise the USB-C elongation cable stored with the microphone should be used.

@@ -8,3 +8,5 @@
 
     -   [Broadcast from dual computers with OBS](Course_organisation/03_Dual_computers_OBS.md)
 
+    -   [Broadcast from two computers with Zoom, split sound and presentation](Course_organisation/04_Dual_computers_split_Zoom.md)
+
