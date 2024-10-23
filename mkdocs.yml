@@ -22,8 +22,8 @@ nav:
     - Course_organisation/index.md
     - Broadcast single Zoom: Course_organisation/01_Single_computer_Zoom.md
     - Broadcast single OBS: Course_organisation/02_Single_computer_OBS.md
-    - Broadcast dual OBS: Course_organisation/03_Dual_computers_OBS.md
-    - Broadcast dual Zoom: Course_organisation/04_Dual_computers_split_Zoom.md
+    - Broadcast dual Zoom: Course_organisation/03_Dual_computers_split_Zoom.md
+    - Broadcast dual OBS: Course_organisation/04_Dual_computers_OBS.md
 
 plugins:
   # show revision date at bottom of each page

@@ -2,9 +2,13 @@
 
 -   [Broadcast from single computer with Zoom](01_Single_computer_Zoom.md)
 
+    This is the setup used for the 2-day introductory course in Amsterdam in May 2024.
+
 -   [Broadcast from single computer with OBS](02_Single_computer_OBS.md)
 
--   [Broadcast from dual computers with OBS](03_Dual_computers_OBS.md)  
+-   [Broadcast from two computers with Zoom, split sound and presentation](03_Dual_computers_split_Zoom.md)
 
--   [Broadcast from two computers with Zoom, split sound and presentation](04_Dual_computers_split_Zoom.md)
+    This is the setup we usually use for LUMI courses.
+
+-   [Broadcast from dual computers with OBS](04_Dual_computers_OBS.md)  
 
