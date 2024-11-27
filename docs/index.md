@@ -14,3 +14,4 @@
 
     -   [Broadcast from dual computers with OBS](Course_organisation/04_Dual_computers_OBS.md)
 
+    -   [Record a Zoom session](Course_organisation/05_Record.md)
