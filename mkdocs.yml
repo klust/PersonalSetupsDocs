@@ -25,6 +25,7 @@ nav:
     - Broadcast dual Zoom: Course_organisation/03_Dual_computers_split_Zoom.md
     - Broadcast dual OBS: Course_organisation/04_Dual_computers_OBS.md
     - Record Zoom: Course_organisation/05_Record.md
+    - EPICURE 2024: Course_organisation/06_Setup_EPICRURE_Brussels_2024.md
 
 plugins:
   # show revision date at bottom of each page

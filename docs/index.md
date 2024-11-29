@@ -15,3 +15,5 @@
     -   [Broadcast from dual computers with OBS](Course_organisation/04_Dual_computers_OBS.md)
 
     -   [Record a Zoom session](Course_organisation/05_Record.md)
+
+    -   [Setup for the EPICURE meeting in Brussels in 2024](Course_organisation/06_Setup_EPICRURE_Brussels_2024.md)
