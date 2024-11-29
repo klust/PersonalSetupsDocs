@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://klust.github.io/PersonalSetupsDocs/</loc>
-         <lastmod>2024-11-27</lastmod>
+         <lastmod>2024-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/</loc>
-         <lastmod>2024-11-27</lastmod>
+         <lastmod>2024-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/01_Single_computer_Zoom/</loc>
-         <lastmod>2024-11-27</lastmod>
+         <lastmod>2024-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/02_Single_computer_OBS/</loc>
-         <lastmod>2024-11-27</lastmod>
+         <lastmod>2024-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/03_Dual_computers_split_Zoom/</loc>
-         <lastmod>2024-11-27</lastmod>
+         <lastmod>2024-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/04_Dual_computers_OBS/</loc>
-         <lastmod>2024-11-27</lastmod>
+         <lastmod>2024-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/05_Record/</loc>
-         <lastmod>2024-11-27</lastmod>
+         <lastmod>2024-11-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://klust.github.io/PersonalSetupsDocs/Course_organisation/06_Setup_EPICRURE_Brussels_2024/</loc>
+         <lastmod>2024-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
