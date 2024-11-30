@@ -87,6 +87,9 @@ ClickShare.
 
     -   Long HDMI cable to the presenters' table
 
+-   LoupeDeck CT with the included USB-C cable and USB-C -to -USB-A adapter to the 
+    front (USB2) port of the docking station.
+
 -   iPad + Airpods for monitoring or for OBS Blade
 
 
@@ -107,6 +110,9 @@ ClickShare.
     -   Microphone to VB-Cable A
 
     -   Music profile for sound with echo cancellation though that may not be needed
+  
+    -   Make sure that the camera is on in the meeting and that the speaker is not 
+        muted.
 
 -   Audio Hijack setup
 
@@ -125,16 +131,22 @@ ClickShare.
 
     -   Device connections:
 
-        -   **Video HD60X** abd **sound HD60X** to the HD60X
+        -   **Video HD60X** and **sound HD60X** to the HD60X
 
         -   **CAM** and **Audio CAM** to "Logitech Streamcam"
 
-        -   **LTP pres** aan de "ASUS MB166C"
+        -   **LTP scr cap** aan de "ASUS MB166C"
     
-        -   **DJi Mic** aan de "Wireless Receiver RX"
+    -   Global audio devices in the "Settings" in the right dock:
 
-        -   **Zoom (B)** aan "VB-Cable B"
-  
+        -   **Mic/Aux** to *Default settings*
+
+        -   **Mic/Aux 2** to * Wireless Microphone RX**
+
+        -   **Mic/Aux3** to *Game Capture HD60 X*
+
+        -   **Mic/Aux 4** to *VB-Cable B*
+
     -   "Advanced Audio Properties" in the Audio mixer (from the "All sources scene"):
         All are monitor and output, except "Zoom (B)" which is "not monitor" as we don't want to
         feed that back into Zoom.
@@ -142,6 +154,9 @@ ClickShare.
     -   Use "Tools"-> "Websocket settings" to enable websockets so that "OBS Blade" on the iPad can
         be used to steer scenes. This is essential when presenting from the laptop as PowerPoint needs
         to be in focus for that.
+
+        Turn off authentication as the LoupeDeck software cannot authenticate, and there are 
+        sometimes trouble to get the connection in OBS Blade on the iPad also.
 
     -   You can use the "preview" feature both at the "Sources" level or in the preview zone to send
         the output of the sources or of the preview zone to the second ASUS monitor which is then
