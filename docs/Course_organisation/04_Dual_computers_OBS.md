@@ -16,7 +16,7 @@
 
 #### Extra cables
 
-1.  USB-C-to-magsafe cable to feed the laptop
+1.  USB-C-to-magsafe cable to feed the Apple laptop
 2.  USB-C-to-Lightning cable to feed the iPad
 3.  Longer HDMI cable to connect the capture device to the laptop of the presenter.
 4.  Extension cable for the DJI mic, should be included with the DJI mic
@@ -32,12 +32,13 @@
 2.  iPad to steer OBS
 3.  Logitech Pebble mouse
 4.  USB hub to connect USB-A devices (Elgato, webcam depending on which webcam is used)
-5.  Power supply 300W + power cable
+5.  Power supply UGreen 200W + power cable
 6.  DJI microphone
 7.  Optional: One or two extra monitors can help.
 8.  Elgato HD60x, which comes with a short HDMI-to-HDMI cable and a short USB-C-to-USB-A cable to
     connect the device to a USB-A port (the Elgato has a USB-C connector)
-9.  Optional: Webcam + tripod
+9.  Optional: HDMI splitter: Connect laptop of presenter to input, and extra HDMI monitor, projector and HDMI capture to outputs.
+10. Optional: Webcam + tripod
 
 
 ## Option 1: Broadcast to YouTube or a similar OBS-supported service
@@ -50,7 +51,19 @@
 
 ### Setup checklist
 
-#### Hardware setup
+#### Hardware setup with HDMI splitter
+
+-   Setup of the Apple laptop: Port shortage...
+    -   Extra USB-C monitor ASUS to USB-C 1.
+    -   Video capture to USB-C 2
+    -   Webcam and DJI microphones 
+
+-   Setup of the HDMI splitter:
+
+    -   Connect speaker laptop to the input of the HDMI switch
+    -   Connect Asus HDMI screen to output 1 of the HDMI switch. This should hopefully already force the laptop to use 1920x1080p.
+    -   Connect the projector to output 2 of the HDMI switch.
+    -   Connect the HDMI capture device to output 3 of the HDMI switch.
 
 
 #### Software setup
