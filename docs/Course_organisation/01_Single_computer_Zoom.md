@@ -40,7 +40,7 @@
     the leftmost monitor.
 
     **Solution**: In the macOS screen settings, click the display that you want as the main
-    display and set it to "Main display" in the box under the display orderning.
+    display and set it to "Main display" in the box under the display ordering.
 
 
 ## Infrastructure (ideal)

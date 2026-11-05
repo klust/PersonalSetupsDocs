@@ -2,7 +2,7 @@
 
 ## Idea
 
--   Make it easy for the speaker to use their own laptop.
+-   Make it easy for the presenter to use their own laptop.
     An argument for this is that they then have their own ssh keys to show things
     live on the supercomputer.
 
@@ -21,7 +21,7 @@
         -   Microphone to broadcast sound
 
         -   Optionally: Can broadcast a camera image of the room. Viewers can then chose
-            between viewing the speaker and the screen share.
+            between viewing the presenter and the screen share.
 
         -   Optionally: Can also make the recording.
 
@@ -209,7 +209,7 @@
 
     5.  When using a webcam, is that detected and shown?
 
-    6.  Check if the speaker's slides are shown in the Zoom session
+    6.  Check if the presenter's slides are shown in the Zoom session
 
     7.  Check if recording is on
 
@@ -222,7 +222,7 @@
 
     2.  Follows feedback in the Zoom chat
 
-    3.  Follows feedback in the HedgeDoc if that is used to pass on to the speaker
+    3.  Follows feedback in the HedgeDoc if that is used to pass on to the presenter
 
     4.  Can let participants in and controls the host function
 
