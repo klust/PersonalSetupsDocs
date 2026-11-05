@@ -48,9 +48,9 @@
 
 ## Common hardware setup for option 1 and option 2
 
--   One USB-C port to connect to an extra monitor so that the HDMI port remains free to project from the laptop also.
+-   One USB-C port to connect to an extra monitor so that the HDMI port remains free to project from the laptop also (use one of the left ports)
 
--   Connecting the video capture device of a second USB-C port
+-   Connecting the video capture device of a second USB-C port (right port used in tests)
   
     -   Without HDMI splitter, which implies without extra HDMI monitor
 
@@ -76,7 +76,7 @@
 
         -   HDX60 to laptop with the USB-C cable included in the bag of the HDX60.
 
--   USB-C port 3: Microphones and webcam
+-   USB-C port 3: Microphones and webcam (second port to the left used during tests)
 
     -   When connecting more than one device: Use the Satechi USB-C hub with 3 USB-C ports and an ethernet port
 
@@ -160,6 +160,16 @@
 
         4.  Connect the speaker to VB-Cable B if you want Zoom output to the recording and possibly to the 
             JBL speaker (the latter with Audio Hijack).  
+
+    4.  Screen setup:
+
+        -   Laptop: Hedgedoc and possibly the HiJack windows.
+
+        -   Upper screen: Zoom and possibly the HiJack windows.
+
+        -   Lower screen: OBS
+
+        -   HDMI screen: Presentation shown as a window.
 
 
 ### Web links with information
