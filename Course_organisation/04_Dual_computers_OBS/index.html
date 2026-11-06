@@ -589,6 +589,23 @@
   
 </li>
         
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-work" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to work
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How to work">
+      <ul class="md-nav__list">
+        
           <li class="md-nav__item">
   <a href="#web-links-with-information" class="md-nav__link">
     <span class="md-ellipsis">
@@ -826,6 +843,23 @@
   
 </li>
         
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-work" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to work
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How to work">
+      <ul class="md-nav__list">
+        
           <li class="md-nav__item">
   <a href="#web-links-with-information" class="md-nav__link">
     <span class="md-ellipsis">
@@ -1027,7 +1061,9 @@
 <p>OBS needs to have the virtual camera plugin installed and activated. macOS security may protest
     at first, but the plugin is built-in in recent macOS versions of OBS.</p>
 <ol>
-<li>macOS settings app: Go to "General" → "Login Items &amp; Extensions" → Camera Extensions"</li>
+<li>
+<p>macOS settings app: Go to "General" → "Login Items &amp; Extensions" → Camera Extensions"</p>
+</li>
 <li>
 <p>Make sure that this is on. It may make sense to toggle it off and on if the virtual camera
     does not work when you try to activate it in OBS.</p>
@@ -1082,6 +1118,23 @@
 </ol>
 </li>
 <li>
+<p>Settings to use in OBS</p>
+<ul>
+<li>
+<p>Scene collection: " LUMI course via HDX60 + Tonor + webcam" </p>
+</li>
+<li>
+<p>Uitvoer</p>
+<ul>
+<li>Uitvoermodus " Geavanceerd" </li>
+<li>Streaming settings,  geluidspoor 1 en geen andere</li>
+<li>Streaming settings, uitvoer schalen: Bicubic maar eigenlijk doet het er niet toe want de settings zijn zo gekozen dat schalen niet nodig is, en <em>resolutie op 1920x1080.</em></li>
+</ul>
+</li>
+<li>Video tab: Set both resolutions to 1920x1080.</li>
+</ul>
+</li>
+<li>
 <p>Screen setup:</p>
 <ul>
 <li>
@@ -1098,9 +1151,51 @@
 </li>
 </ul>
 </li>
+<li>
+<p>Use of OBS Blade on the iPad</p>
+<ul>
+<li>
+<p>Websockets is now integrated in OBS, so no issues with plugins anymore.</p>
+</li>
+<li>
+<p>Go to "Tools -&gt; Websocket server instellingen", dan in "Serverinstellingen" klik op "Toon verbindingsinformatie" om de QR-code te krijgen die je kan scannen met de iPad vanuit OBS Blade om te koppelen.</p>
+</li>
+<li>
+<p>Het is moeilijk om de monitor in en uit te schakelen voor een audiokanaal, en dus om geluid naar Zoom in- en uit te schakelen. Daarvoor moet je op de drie streepjes (potentiometers) klikken en dan "off" selecteren voor "Audio Monitoring" i.p.v. "Both".</p>
+</li>
+</ul>
+</li>
 </ol>
 </li>
 </ol>
+<h2 id="how-to-work">How to work<a class="headerlink" href="#how-to-work" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p>When presenting from the Mac, currently one should not use image capture via the HDX60 but
+    instead chose the scene " screengrab". There are currently no equivalents with camera as 
+    when I present there is no director to switch between screens.</p>
+<p>Yet it is necessary to connect the Mac to the HDMI splitter as that creates the screen from
+which we grab the image.</p>
+</li>
+<li>
+<p>To be able to use zoom, you first need to start the virtual camera. Leave that one on all the time.</p>
+</li>
+<li>
+<p>It is best to stop and start the recording between presentations.</p>
+</li>
+<li>
+<p>Important note about sound:</p>
+<ul>
+<li>
+<p>Sound for the recording comes from the speaker icon in each channel.</p>
+</li>
+<li>
+<p>Zoom however uses the sound from the monitor channel, so the headphones.</p>
+<p>This is a bit unfortunate but does have the advantage that we can cut off the loop from zoom out to zoom.</p>
+</li>
+</ul>
+</li>
+</ul>
 <h3 id="web-links-with-information">Web links with information<a class="headerlink" href="#web-links-with-information" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="https://www.anyrec.io/obs-to-zoom/">AnyRec page "Connect OBS to Zoom: Webcam, Audio Output, and Live Stream"</a></li>
@@ -1125,7 +1220,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 5, 2026 17:33:24 UTC">November 5, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="November 6, 2026 15:21:37 UTC">November 6, 2026</span>
   </span>
 
     
