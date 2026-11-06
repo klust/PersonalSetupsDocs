@@ -129,6 +129,7 @@
         at first, but the plugin is built-in in recent macOS versions of OBS.
 
         1.  macOS settings app: Go to "General" → "Login Items & Extensions" → Camera Extensions"
+
         2.  Make sure that this is on. It may make sense to toggle it off and on if the virtual camera
             does not work when you try to activate it in OBS.
 
@@ -161,7 +162,17 @@
         4.  Connect the speaker to VB-Cable B if you want Zoom output to the recording and possibly to the 
             JBL speaker (the latter with Audio Hijack).  
 
-    4.  Screen setup:
+    4.  Settings to use in OBS
+
+        -   Scene collection: " LUMI course via HDX60 + Tonor + webcam" 
+  
+        -   Uitvoer
+            -   Uitvoermodus " Geavanceerd" 
+            -   Streaming settings,  geluidspoor 1 en geen andere
+            -   Streaming settings, uitvoer schalen: Bicubic maar eigenlijk doet het er niet toe want de settings zijn zo gekozen dat schalen niet nodig is, en *resolutie op 1920x1080.*
+        -   Video tab: Set both resolutions to 1920x1080.
+
+    5.  Screen setup:
 
         -   Laptop: Hedgedoc and possibly the HiJack windows.
 
@@ -170,6 +181,38 @@
         -   Lower screen: OBS
 
         -   HDMI screen: Presentation shown as a window.
+
+    6.  Use of OBS Blade on the iPad
+
+        -   Websockets is now integrated in OBS, so no issues with plugins anymore.
+
+        -   Go to "Tools -> Websocket server instellingen", dan in "Serverinstellingen" klik op "Toon verbindingsinformatie" om de QR-code te krijgen die je kan scannen met de iPad vanuit OBS Blade om te koppelen.
+
+        -   Het is moeilijk om de monitor in en uit te schakelen voor een audiokanaal, en dus om geluid naar Zoom in- en uit te schakelen. Daarvoor moet je op de drie streepjes (potentiometers) klikken en dan "off" selecteren voor "Audio Monitoring" i.p.v. "Both".
+
+
+## How to work
+
+-   When presenting from the Mac, currently one should not use image capture via the HDX60 but
+    instead chose the scene " screengrab". There are currently no equivalents with camera as 
+    when I present there is no director to switch between screens.
+
+    Yet it is necessary to connect the Mac to the HDMI splitter as that creates the screen from
+    which we grab the image.
+
+-   To be able to use zoom, you first need to start the virtual camera. Leave that one on all the time.
+
+-   It is best to stop and start the recording between presentations.
+
+-   Important note about sound:
+  
+    -   Sound for the recording comes from the speaker icon in each channel.
+
+    -   Zoom however uses the sound from the monitor channel, so the headphones.
+
+        This is a bit unfortunate but does have the advantage that we can cut off the loop from zoom out to zoom.
+
+
 
 
 ### Web links with information
