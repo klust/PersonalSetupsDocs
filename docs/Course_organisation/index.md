@@ -14,4 +14,8 @@
 
 -   [Record a Zoom session](05_Record.md)
 
+Specific setups:
+
 -   [Setup for the EPICURE meeting in Brussels in 2024](06_Setup_EPICRURE_Brussels_2024.md)
+
+-   [Setup used for the Copenhagen courses in 2026](07_Setup_Copenhagen_2026.md)
